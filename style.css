@@ -15,7 +15,7 @@ header {
   max-width: 1920px;
   margin: 0 auto;
 */
-  background-image: url(../img/bg.jpg);
+  background-image: url(bg.jpg);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
